@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**AndiswaMbonambi08/AndiswaMbonambi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software Development, AI Engineering, and Cloud Engineering**.  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on projects like **SheRides, Hala Live, and Financial System**  
+- 🌱 Building with **C#, ASP.NET Core, Python, SQL/SQLite**  
+- 💻 Also familiar with **Flutter, Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma**  
+- ☁️ Exploring **Azure & Kubernetes certifications**  
+- 💡 Interested in **graduate programmes, internships and junior engineering roles**  
+- 📚 Focused on **workflow optimization, project structure and practical coding**  
+- ⚡ Fun fact: I enjoy **McDonald's fries and burgers** 🍟🍔  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C#, Python, SQL, JavaScript, ASP.NET Core  
+- **Frameworks:** ASP.NET Core MVC, Entity Framework Core, Flutter  
+- **Databases:** SQLite, Supabase  
+- **Web:** HTML, CSS, Bootstrap  
+- **Tools:** Visual Studio, VS Code, PowerShell, GitHub  
+
+---
+
+### 📈 Goals
+- Become a **Software Engineer or AI Engineer**  
+- Contribute to **innovative projects** in cloud and AI  
+- Join a **graduate programme** or **junior role** in 2027  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](linkedin.com/in/andiswa-mbonambi)   
+- [Email](andiswambonambi12@gmail.com)  
+
