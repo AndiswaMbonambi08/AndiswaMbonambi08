@@ -8,7 +8,6 @@ I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software D
 - ☁️ Exploring **Azure & Kubernetes certifications**  
 - 💡 Interested in **graduate programmes, internships and junior engineering roles**  
 - 📚 Focused on **workflow optimization, project structure and practical coding**  
-- ⚡ Fun fact: I enjoy **McDonald's fries and burgers** 🍟🍔  
 
 ---
 
