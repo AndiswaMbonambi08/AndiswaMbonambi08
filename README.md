@@ -7,7 +7,8 @@ I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software D
 - 💻 Also familiar with **Flutter, Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma**  
 - ☁️ Exploring **Azure & Kubernetes certifications**  
 - 💡 Interested in **graduate programmes, internships and junior engineering roles**  
-- 📚 Focused on **workflow optimization, project structure and practical coding**  
+- 📚 Focused on **workflow optimization, project structure and practical coding**
+- 🎮 Outside of tech, I enjoy **gaming (Call of Duty, Chess, Among Us)**, a mix of strategy, teamwork and fun that keeps me sharp and creative    
 
 ---
 
