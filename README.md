@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software Development, AI Engineering, and Cloud Engineering**.  
+I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software Development**.  
 
 - 🔭 Currently working on projects like **SheRides, Hala Live, and Financial System**  
 - 🌱 Building with **C#, ASP.NET Core, Python, SQL/SQLite**  
