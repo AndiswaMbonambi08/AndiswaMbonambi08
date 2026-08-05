@@ -22,7 +22,7 @@ I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software D
 ---
 
 ### 📈 Goals
-- Become a **Software Engineer or AI Engineer**  
+- Become a **Software Developer**  
 - Contribute to **innovative projects** in cloud and AI  
 - Join a **graduate programme** or **junior role** in 2027  
 
