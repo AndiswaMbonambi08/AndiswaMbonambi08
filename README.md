@@ -2,7 +2,7 @@
 
 I'm **Andiswa**, a final‑year IT student at CUT, passionate about **Software Development**.  
 
-- 🔭 Currently working on projects like **SheRides, Hala Live, and Financial System**  
+- 🔭 Currently working on projects like **SheRides, ATS Analyzer, and Financial System**  
 - 🌱 Building with **C#, ASP.NET Core, Python, SQL/SQLite, Flutter**  
 - 💻 Also familiar with **Flutter, Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma**  
 - ☁️ Exploring **Azure & Kubernetes certifications**  
