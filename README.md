@@ -1,4 +1,5 @@
 Hi there 👋
+
 I'm Andiswa, a final‑year IT student at CUT, passionate about Software Development.
 
 * 💼 Currently a Software Developer Trainee at Bitcube, working with Git/CI-CD workflows, branch protection, and real team collaboration
