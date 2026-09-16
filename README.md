@@ -7,6 +7,8 @@ I'm Andiswa, a final‑year IT student at CUT, passionate about Software Develop
 * 🌱 Building with C#, ASP.NET Core, Python, SQL/SQLite, Flutter
 * 💻 Also familiar with Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma
 * ☁️ AZ-900 certified, currently studying for AI-901
+* 🧩 Practiced end-to-end team workflows: branching, merging, PR reviews, branch protection & CI — see it in [team-sprint](https://github.com/Nadio75/team-sprint)
+* 📋 Practiced Agile planning end-to-end: user stories, acceptance criteria, sprint boards, documentation (READMEs, ADRs) — see it in [Shelf](https://github.com/AndiswaMbonambi08/AndiswaMbonambi08-daily-app)
 * 💡 Interested in graduate programmes, internships and junior engineering roles
 * 📚 Focused on workflow optimization, project structure and practical coding
 * 🎮 Outside of tech, I enjoy gaming (Call of Duty, Chess, Among Us), a mix of strategy, teamwork and fun that keeps me sharp and creative
