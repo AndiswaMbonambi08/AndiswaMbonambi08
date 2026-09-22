@@ -36,4 +36,3 @@ I'm Andiswa, a final‑year IT student at CUT, passionate about Software Develop
 * [LinkedIn](https://www.linkedin.com/in/andiswa-mbonambi)
 * [Email](mailto:andiswambonambi12@gmail.com)
 * [Portfolio](https://andiswambonambi08.github.io/andiswa-portfolio/)
-- [Portfolio](https://andiswambonambi08.github.io/andiswa-portfolio/)
