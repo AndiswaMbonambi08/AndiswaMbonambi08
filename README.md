@@ -2,8 +2,7 @@ Hi there 👋
 
 I'm Andiswa, a final‑year IT student at CUT, passionate about Software Development.
 
-* 💼 Currently a Software Developer Trainee at Bitcube, working with Git/CI-CD workflows, branch protection, and real team collaboration
-* 🚀 This week: building RondiTrack, a stokvel-tracking backend API in ASP.NET Core 10, domain modeling, DTOs, a service layer, and idempotent endpoints
+* 💼 Currently a Software Developer Trainee at Bitcube
 * 🔭 Building projects like SheRides, ATS Analyzer, and Financial System
 * 🌱 Building with C#, ASP.NET Core, Python, SQL/SQLite, Flutter
 * 💻 Also familiar with Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma
@@ -17,7 +16,7 @@ I'm Andiswa, a final‑year IT student at CUT, passionate about Software Develop
 🛠️ Tech Stack
 
 * Languages: C#, Python, SQL, JavaScript
-* Frameworks: ASP.NET Core 10 (Minimal APIs), ASP.NET Core MVC, Entity Framework Core, Flutter
+* Frameworks: ASP.NET Core 10, ASP.NET Core MVC, Entity Framework Core, Flutter
 * API Tooling: OpenAPI, Scalar
 * Databases: SQLite, Supabase
 * Web: HTML, CSS, Bootstrap
