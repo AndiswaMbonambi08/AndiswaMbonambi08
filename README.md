@@ -2,7 +2,7 @@ Hi there 👋
 I'm Andiswa, a final‑year IT student at CUT, passionate about Software Development.
 
 * 💼 Currently a Software Developer Trainee at Bitcube
-* 🔭 Building projects like SheRides, ATS Analyzer, Financial System and RondiTrack (a stokvel contribution tracker with an ASP.NET Core API and a React frontend)
+* 🔭 Building projects like SheRides, ATS Analyzer, Financial System and RondiTrack
 * 🌱 Building with C#, ASP.NET Core, TypeScript, React, Python, SQL/PostgreSQL/SQLite, Flutter
 * 💻 Also familiar with Dart, Supabase, Bootstrap, HTML, CSS, JavaScript and Figma
 * ☁️ AZ-900 certified, currently studying for AI-901
